@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1718652925379,
+      "tag": "0000_blue_silvermane",
+      "breakpoints": true
+    }
+  ]
+}
